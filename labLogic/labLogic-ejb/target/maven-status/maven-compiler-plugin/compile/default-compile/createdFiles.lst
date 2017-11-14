@@ -1,0 +1,4 @@
+br/com/lab/treinamento/local/LancamentoLocal.class
+br/com/lab/treinamento/ejb/LancamentoBean.class
+br/com/lab/treinamento/NewSessionBean.class
+br/com/lab/treinamento/remote/LancamentoRemote.class
